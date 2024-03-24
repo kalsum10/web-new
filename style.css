@@ -1,0 +1,851 @@
+* * {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+/* Gaya untuk class .home */
+.home {
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+    background-size: cover;
+    background-position: center; 
+}
+
+.sticky-nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fff; /* Sesuaikan dengan warna latar belakang Anda */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Efek bayangan jika diperlukan */
+    z-index: 1000; /* Sesuaikan jika diperlukan */
+}
+
+
+
+#audio {/* Gaya untuk class .nav-ul */
+    .nav-ul {
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+    }
+    
+    .nav-ul li {
+        float: left;
+    }
+    
+    .nav-ul li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    
+    .nav-ul li a:hover {
+        background-color: #c97171; /* Ubah sesuai keinginan Anda */
+    }
+/* Gaya untuk class .nav-ul */
+.nav-ul {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+}
+
+.nav-ul li {
+    float: left;
+}
+
+.nav-ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-ul li a:hover {
+    background-color: #c97171; /* Ubah sesuai keinginan Anda */
+}
+/* Gaya untuk class .nav-ul */
+.nav-ul {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+}
+
+.nav-ul li {
+    float: left;
+}
+
+.nav-ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-ul li a:hover {
+    background-color: #c97171; /* Ubah sesuai keinginan Anda */
+}
+/* Gaya untuk class .nav-ul */
+.nav-ul {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+}
+
+.nav-ul li {
+    float: left;
+}
+
+.nav-ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-ul li a:hover {
+    background-color: #c97171; /* Ubah sesuai keinginan Anda */
+}
+/* Gaya untuk class .nav-ul */
+.nav-ul {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+}
+
+.nav-ul li {
+    float: left;
+}
+
+.nav-ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-ul li a:hover {
+    background-color: #c97171; /* Ubah sesuai keinginan Anda */
+}
+/* Gaya untuk class .nav-ul */
+.nav-ul {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+}
+
+.nav-ul li {
+    float: left;
+}
+
+.nav-ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-ul li a:hover {
+    background-color: #c97171; /* Ubah sesuai keinginan Anda */
+}
+/* Gaya untuk class .nav-ul */
+.nav-ul {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+}
+
+.nav-ul li {
+    float: left;
+}
+
+.nav-ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-ul li a:hover {
+    background-color: #c97171; /* Ubah sesuai keinginan Anda */
+}
+/* Gaya untuk class .nav-ul */
+.nav-ul {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+}
+
+.nav-ul li {
+    float: left;
+}
+
+.nav-ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-ul li a:hover {
+    background-color: #c97171; /* Ubah sesuai keinginan Anda */
+}
+/* Gaya untuk class .nav-ul */
+.nav-ul {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+}
+
+.nav-ul li {
+    float: left;
+}
+
+.nav-ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-ul li a:hover {
+    background-color: #c97171; /* Ubah sesuai keinginan Anda */
+}
+/* Gaya untuk class .nav-ul */
+.nav-ul {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+}
+
+.nav-ul li {
+    float: left;
+}
+
+.nav-ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-ul li a:hover {
+    background-color: #c97171; /* Ubah sesuai keinginan Anda */
+}
+/* Gaya untuk class .nav-ul */
+.nav-ul {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+}
+
+.nav-ul li {
+    float: left;
+}
+
+.nav-ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-ul li a:hover {
+    background-color: #c97171; /* Ubah sesuai keinginan Anda */
+}
+    
+    display: none;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 8%;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+}
+
+.logo {
+    color: white;
+    font-size: 60px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+span {
+    color: rgb(196, 93, 110);
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    padding: 10px 25px;
+}
+
+nav ul li a {
+    color: rgb(196, 93, 110);
+    font-weight: bold;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+nav ul li a:hover {
+    color: #eee3e5;
+    transition: 0.5s;
+}
+
+.content {
+    position: absolute;
+    top: 70%;
+    left: 8%;
+    transform: translateY(-50%);
+    text-align: left; 
+    max-width: 70%;
+}
+
+h4, h1, h3 {
+    color: white;
+    letter-spacing: 1px;
+    line-height: 32px;
+    font-size: px;
+    margin-bottom: 35px;
+}
+
+.content a {
+    font-size: 25px;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(bg2.jpeg);
+    color: hsl(0, 54%, 68%);
+    display: inline-block;
+    padding: 20px 40px;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.content a:before, .content a:after {
+    content: "";
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    width: calc(100% + 6px);
+    height: calc(100% + 6px);
+    border-radius: 20px; /* Mengatur ulang agar sesuai dengan border-radius elemen utama */
+    border: 4px solid transparent;
+    z-index: -1;
+}
+
+.content a:before {
+    border-bottom-color: #f16060;
+    border-right-color: #c77c89;
+    animation: rotate-border 8s infinite linear;
+}
+
+.content a:after {
+    border-top-color: #f8f4f5;
+    border-left-color: #f16060;
+    animation: rotate-border-reverse 8s infinite linear; /* Animasi berputar ke arah yang berlawanan */
+}
+
+@keyframes rotate-border {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes rotate-border-reverse {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(-360deg); /* Berputar ke arah yang berlawanan */
+    }
+}
+
+.content a:hover {
+    color: #bb9097;
+}
+
+@media (max-width: 768px) {
+    nav {
+        padding: 10px 5%;
+    }
+    
+    .content {
+        left: 5%;
+        max-width: 90%;
+    }
+    
+    h1, h1, h3 {
+        max-width: 90%;
+    }
+}
+
+@media (max-width: 480px) {
+    nav {
+        padding: 10px 3%;
+    }
+    
+    .content {
+        left: 3%;
+        max-width: 94%;
+    }
+    
+    h4, h1, h3 {
+        max-width: 94%;
+    }
+}
+
+.about {
+    padding: 100px 0;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+}
+
+.about-me {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.about-me img {
+    padding-right: 20px;
+    height: auto;
+    max-width: 20%;
+    border-radius: 30%;
+    transition: transform 0.5s ease; /* Tambahkan transisi ke semua perubahan transformasi */
+}
+
+.about:hover .about-me img {
+    transform: scale(1.1); /* Perbesar gambar saat dihover */
+}
+
+.about-text {
+    color: white;
+    font-size: 30px;
+    text-transform:capitalize;
+    margin-bottom: 20px;
+    text-align: left;
+    max-width: 800px;
+}
+
+.about-text p {
+    color: white;
+    letter-spacing: 1px;
+    line-height: 35px;
+    font-size: px;
+    margin-bottom: 35px;
+    text-transform:lowercase;
+}
+
+.button {
+    font-size: 25px;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(bg2.jpeg);
+    color: white;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+}
+.button:hover {
+    color: #d1818d;
+    border-color: #d1818d;
+}
+
+.Galery {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Galery h2 {
+    text-align: center;
+    color: white;
+  }
+  
+  .image-gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .image-gallery img {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    margin: 10px;
+  }
+  
+  .image-gallery img:hover {
+    transform: scale(1.1);
+  }
+  
+  .modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+  }
+
+  .modal-content {
+    max-width: 80%;
+    max-height: 80%;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .modal-content img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .modal-content button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .modal-content button:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+  }
+
+  .educations {
+    text-align: center;
+    padding: 0;
+}
+
+.box-educations {
+    text-align: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(bg2.jpeg);
+    background-size: 100%;
+    padding: 50px 0;
+}
+
+.box-educations h1 {
+    font-size: 70px; /* Atur ukuran font sesuai keinginan */
+}
+
+.box-kiri, .box-tengah, .box-kanan {
+    width: calc(33.33% - 20px); /* Ubah lebar sesuai kebutuhan */
+    background-color: pink;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.box-educations:hover .box-kiri, 
+.box-educations:hover .box-tengah, 
+.box-educations:hover .box-kanan {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+
+.Certificate {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.certificate-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.Certificate img {
+    margin: 10px;
+    width: 300px;
+    height: auto;
+    transition: transform 0.3s; /* Menambahkan transisi untuk efek hover */
+}
+
+.Certificate img:hover {
+    transform: scale(1.1); /* Memperbesar gambar saat dihover */
+}
+
+.title h2 {
+    color: white;
+    font-size: 80px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+.Contact-me {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+    width: auto;
+    padding: 100px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.contact-text h2 {
+    color: white;
+    font-size: 50px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.contact-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contact {
+    width: 25%;
+    padding: 50px 20px;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact a {
+    width: 60px; /* Lebih besar dari sebelumnya */
+    height: 60px; /* Lebih besar dari sebelumnya */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d1818d;
+    color: white;
+    text-decoration: none;
+    border-radius: 50%;
+    transition: background-color 0.3s, border 0.3s;
+    animation: pulse 1.5s infinite alternate;
+    margin-bottom: 10px;
+    font-size: 1; /* Mengatur ukuran teks di dalam ikon */
+}
+
+.contact a:hover {
+    transform: scale(1.1);
+    background: transparent;
+    border: 2px solid wheat;
+    animation: none; /* Menonaktifkan animasi ketika dihover */
+}
+
+.contact p {
+    font-size: 20px;
+    margin: 10px 0 0;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.1);
+    }
+}
+
+
+
+footer {
+    position: relative;
+    color: white;
+    font-size: larger;
+    width: 100%;
+    height: 60px;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(bg2.jpeg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    animation: changeColor 2s infinite alternate; /* Animasi untuk mengubah warna teks */
+}
+
+@keyframes changeColor {
+    0% {
+        color: white; /* Warna awal */
+    }
+    100% {
+        color: #d1818d; /* Warna yang diinginkan */
+    }
+}
+
+/* Tata letak default */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .navbar {
+    background-color: #666;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  
+  .item {
+    width: 30%;
+    float: left;
+    margin: 0 1.66667%;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Media queries untuk layar berukuran kecil */
+  @media only screen and (max-width: 600px) {
+    .item {
+      width: 100%;
+      margin: 0 0 20px 0;
+    }
+  }
+  
+  /* Media queries untuk layar berukuran sedang */
+  @media only screen and (min-width: 601px) and (max-width: 900px) {
+    .item {
+      width: 48%;
+      margin: 0 1% 20px 1%;
+    }
+  }
+  
+  /* Media queries untuk layar berukuran besar */
+  @media only screen and (min-width: 901px) {
+    .container {
+      padding: 40px;
+    }
+    .header,
+    .navbar,
+    .content,
+    .footer {
+      padding: 30px;
+    }
+  }
+  
